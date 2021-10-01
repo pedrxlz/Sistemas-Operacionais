@@ -34,20 +34,3 @@ for v in range(10000):
     
 print(f'\nSaldo final: {carteira.saldo}') # Exibe o saldo final após todas as iterações.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
